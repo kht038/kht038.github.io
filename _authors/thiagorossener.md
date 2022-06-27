@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: kth
 display_name: 고태형
 position: 그냥 개밟자.
-bio: Just a developer.
+bio: 그냥 개밟자.
 github_username: kth
 # facebook_username: thiagorossener
 # twitter_username: thiagorossener
