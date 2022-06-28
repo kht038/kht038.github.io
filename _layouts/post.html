@@ -22,7 +22,9 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
+                    {% if page.image_display %}
                     <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                    {% endif %}
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
