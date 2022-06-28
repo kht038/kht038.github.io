@@ -17,7 +17,7 @@ menu:
   - title: Contact
     url: /contact
   - title: Feed
-    url: /feed.xml
+    url: /feed
 email: kth3341@gmail.com
 # See: https://disqus.com/
 # disqus_username: disqus_username
