@@ -40,13 +40,13 @@ github_username: kht038
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: false
+two_columns_layout: true
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-EL2M29JS7Z"
 language: "ko-kr"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"

@@ -66,12 +66,12 @@
   ul,
   ol,
   iframe {
-    @include center(rem(800px));
+    @include center(rem(900px));
     @include mainFont(400);
     font-size: rem(17px);
     line-height: rem(30px);
     letter-spacing: 0.025rem;
-    padding: 0 rem(20px);
+    padding: 0;
     margin: rem(20px) auto 0;
 
     @include media(">=sm") {
